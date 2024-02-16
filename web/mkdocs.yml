@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Ka Mana Earthshots Webpage
+
+nav:
+  - Home: 'index.md'
+  - Examples: 'examples.md'
+  - Documentation: 'documentation.md'
+  - About Us: 'about.md'
+
+theme:
+    name: material

@@ -1,17 +1,9 @@
-# Ka Mana
+# Ka mana o ka īa: Modeling our Energy Future
+The Ka Mana team is a collaboration between three major code groups to address multiple Earthshots climate issues.
 
-The main page for all things Ka Mana Earthshots team!
+## DOE's Energy Earthshots
+The DOE's Energy Earthshots initiative drives research in climate change and clean energy solutions. The Ka Mana team focuses on three Earthshots programs:
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Offshore wind turbines.
+* Enchanced geothermal energy.
+* Long duration energy storage and crosscutting.
