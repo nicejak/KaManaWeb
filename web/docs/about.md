@@ -1,6 +1,6 @@
-# Ka Mana
+# Welcome to MkDocs
 
-The main page for all things Ka Mana Earthshots team!
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
