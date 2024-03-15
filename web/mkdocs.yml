@@ -3,6 +3,7 @@ site_name: Ka Mana Earthshots Webpage
 nav:
   - Home: 'index.md'
   - Examples: 'examples.md'
+  - Summer Intensive Workshop: 'summerworkshop.md'
   - About Us: 'about.md'
 
 theme:
