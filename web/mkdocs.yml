@@ -8,3 +8,5 @@ nav:
 
 theme:
     name: material
+    logo: img/Logo1.jpeg
+    favicon: img/favicon.ico
