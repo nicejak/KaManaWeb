@@ -1,4 +1,9 @@
-![Logo](img/Logo1.jpeg){ width=400 }
+---
+title: Ka mana o ka īa
+description: Modeling our energy future
+---
+
+![Logo](img/kamanaicon.png){ width=400 }
 
 # Ka mana o ka īa: Modeling our Energy Future
 The Ka Mana team is a collaboration between three major code groups to address multiple Earthshots climate issues with applied mathematics and computer science. At its core is the general-purpose code [PISALE (Pacific Island Structured adaptive mesh refinement with Arbitrary Lagrangian Eulerian)](https://pisale.bitbucket.io/). It uses numerical techniques to model problems associated with Earthshots goals.
