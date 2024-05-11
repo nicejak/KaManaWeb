@@ -11,7 +11,7 @@ In a collaboration with the UH Information Technology Service Cyberinfrastructur
 - [Western Explorers & Volcanic Heat in Hawaii](https://drive.google.com/file/d/131RY-AeiF6YCpFnXguMHmK1KDltImEAo/view?usp=drive_link)
 
 # Flyer
-![flyer](img/flyer/Flyer_-_Summer_School-1-1.png) {width = 1200}
+![flyer](img/flyer/Flyer_-_Summer_School-1-1.png){width = 1200}
 
 # Schedule
 ![pdf1](img/schedule/EarthShot-SummerSchool-Agenda-2-1.png){ width=800 }
