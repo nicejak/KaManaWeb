@@ -6,7 +6,7 @@ In a collaboration with the UH Information Technology Service Cyberinfrastructur
 # Important resources
 - [A survey of Recent Applications of the PISALE Code and PDE Framework](https://drive.google.com/file/d/17qU-qEZKaXY8nIrzPzJzB1pRIa9J3950/view?usp=drive_link)
 - [Early Hawaiians and Volcanic Heat](https://drive.google.com/file/d/1-QYkbGfEk0zAIjePz90D9rAy984Yug_c/view?usp=drive_link)
-- [Outrech Efforts of the Hawai'i Groundwater and Geothermal Resources Center](https://drive.google.com/file/d/1pHtpadFJy9jlMZjV_b1VRAeDNTwBsVzM/view?usp=drive_link)
+- [Outreach Efforts of the Hawai'i Groundwater and Geothermal Resources Center](https://drive.google.com/file/d/1pHtpadFJy9jlMZjV_b1VRAeDNTwBsVzM/view?usp=drive_link)
 - [Tourists Play With Lava & Volcanic Heat](https://drive.google.com/file/d/1rFk5-rn0B6tngbKKZ_OvmFuzOjWc6X8B/view?usp=drive_link)
 - [Western Explorers & Volcanic Heat in Hawaii](https://drive.google.com/file/d/131RY-AeiF6YCpFnXguMHmK1KDltImEAo/view?usp=drive_link)
 

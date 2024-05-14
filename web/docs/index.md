@@ -13,9 +13,9 @@ Alongside it is the [AMReX](https://amrex-codes.github.io/amrex/) code, a block-
 Last but not least, the [MFEM](https://mfem.org/) code uses the finite element method to solve partial differential equations on unstructured grids with high-order functions and flexible meshes. MFEM and PISALE coupling has been tested on subsurface flow and transport and an on-going NSF project successfully.
 
 ## DOE's Energy Earthshots
-The DOE's Energy Earthshots initiative drives research in climate change and clean energy solutions. The Ka Mana team focuses on three Earthshots programs:
+The DOE's [Energy Earthshots initiative](https://www.energy.gov/energy-earthshots-initiative) drives research in climate change and clean energy solutions. The Ka Mana team focuses on four Earthshots programs:
 
 * Offshore wind turbines.
-* Enchanced geothermal energy.
+* Enhanced geothermal energy.
 * Hydrogen energy.
 * Long duration energy storage and crosscutting.
