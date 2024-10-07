@@ -1,7 +1,7 @@
 # About Us
 ---
 ## Code Groups
-The Ka mana o ka īa team is a collaboration between three major code groups:
+The Ka mana o ka lā team is a collaboration between three major code groups:
 
 * [AMReX](https://amrex-codes.github.io/amrex/)
 * [PISALE](https://pisale.bitbucket.io/)
